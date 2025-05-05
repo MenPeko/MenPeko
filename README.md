@@ -53,18 +53,17 @@ No coding activity tracked this week
 ## 🔭 Current Projects
 <!-- Add your current projects here -->
 ```md
-1. 🍊 [Project Name] - Brief description
-2. 🌐 [Project Name] - Brief description
-3. 💻 [Project Name] - Brief description
+1. 🍊 [CSC230-Discrete-Math] - Terminal Based Python Skill Tester for Students
+2. 🌐 [MenPeko.com] - Personal Website
 ```
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Awc211NzJidGxieWV3bDVnMnRyNWZvMDQ2Y3Nhd3NjMWh6NHEwcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mFHFkmAZPexNbkR7Ld/giphy.gif" width="50px"> Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF9500?style=for-the-badge&logo=About.me&logoColor=white)](https://imp.works)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/juan-navarro-b073a7234/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HuecoMundo0)
+[![Website](https://img.shields.io/badge/Website-FF9500?style=for-the-badge&logo=website.me&logoColor=white)](https://menpeko.com)
   
 </div>
 
