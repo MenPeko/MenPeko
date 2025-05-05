@@ -7,7 +7,7 @@
 - 🧠 Currently learning: Full-stack development
 - 🌱 Working on building my digital presence
 - 🍊 Orange enthusiast (in case you couldn't tell)
-- 💻 Passionate about: Working on leaving my digital footprint, one small step at a time. Consider this a peak into my world.
+- 💻 Passionate about: Working on leaving my digital footprint, one small step at a time. 
 ```
 
 ## 🛠️ Tech Stack & Skills
