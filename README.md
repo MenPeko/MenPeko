@@ -1,11 +1,5 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGExNTBwa3plMXlndzNqczJpMWZhOTRwbzIydGgxdm5wb3A4cnVucyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHjaMo2OzPl3q/giphy.gif" width="3%"> Within the Orange with <a href="https://imp.works" target="_blank">MenPeko's</a> github page <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGExNTBwa3plMXlndzNqczJpMWZhOTRwbzIydGgxdm5wb3A4cnVucyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHjaMo2OzPl3q/giphy.gif" width="3%">
+<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGExNTBwa3plMXlndzNqczJpMWZhOTRwbzIydGgxdm5wb3A4cnVucyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHjaMo2OzPl3q/giphy.gif" width="3%"> Within the Orange with <a href="https://imp.works" target="_blank">MenPeko's</a> github page <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGExNTBwa3plMXlndzNqczJpMWZhOTRwbzIydGgxdm5wb3A4cnVucyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHjaMo2OzPl3q/giphy.gif" width="3%"> </h1>
 
-<div align="center">
-  
-[![Hello](https://capsule-render.vercel.app/api?type=waving&height=100&color=orange&text=Hello%20World&fontAlign=50&fontColor=ffffff&descAlign=50)](https://github.com/MenPeko)
-![Profile Views](https://komarev.com/ghpvc/?username=MenPeko&style=for-the-badge&color=orange)
-
-</div>
 
 ## 🍊 About Me
 ```md
