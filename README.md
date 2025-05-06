@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  
-  
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge?style=flat-square&logo=c&logoColor=white"/>
   <!-- Add more technologies you know -->
@@ -70,7 +68,7 @@ No coding activity tracked this week
 <!-- Add this cool visitor counter at the bottom -->
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/MenPeko/MenPeko/output/github-contribution-grid-snake-orange.svg)
+![Snake animation](https://raw.githubusercontent.com/MenPeko/MenPeko/workflow/output/github-contribution-grid-snake-orange.svg)
   
 </div>
 
