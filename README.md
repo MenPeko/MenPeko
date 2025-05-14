@@ -35,7 +35,6 @@ No coding activity tracked this week
 <div>
   <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=MenPeko&theme=darkhub&no-bg=true&no-frame=true&row=3&column=3&title_color=FF9500" alt="Profile Trophies" />
   <div align="left">
-    <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=MenPeko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=FF9500&fire=FF9500&currStreakLabel=FF9500" alt="GitHub Streak" />
     <br>
     <img width="420px" src="https://github-readme-stats.vercel.app/api?username=MenPeko&show_icons=true&count_private=true&theme=vision-friendly-dark&title_color=FF9500&icon_color=FF9500&border_color=FF9500&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" alt="GitHub Stats" />
   </div>
