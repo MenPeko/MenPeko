@@ -65,9 +65,6 @@ No coding activity tracked this week
 </div>
 
 <!-- Add this cool visitor counter at the bottom -->
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/MenPeko/MenPeko/workflow/output/github-contribution-grid-snake-orange.svg)
-  
+<div align="center">  
 </div>
 
