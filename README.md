@@ -6,7 +6,7 @@
 - 🎓 Computer Science student at San Francisco State University
 - 🧠 Currently learning: Full-stack development
 - 🌱 Working on building my digital presence
-- 🍊 Orange enthusiast (in case you couldn't tell)
+- 🍊 I just like oranges like no other
 - 💻 Passionate about: Fitness and improving my skills
 ```
 
