@@ -50,7 +50,7 @@ No coding activity tracked this week
 ## 🔭 Current Projects
 <!-- Add your current projects here -->
 ```md
-1. 🍊 [CSC230-Discrete-Math] - Terminal Based Python Skill Tester for Students
+1. 🍊 [Running App] 
 2. 🌐 [MenPeko.com] - Personal Website
 ```
 
