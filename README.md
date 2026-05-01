@@ -50,8 +50,8 @@ No coding activity tracked this week
 ## 🔭 Current Projects
 <!-- Add your current projects here -->
 ```md
-1. 🍊 [Running App] 
-2. 🌐 [MenPeko.com] - Personal Website
+1. 🍊 [tepa.tools] - Offline AI DevOps CLI
+2. 🌐 [MenPeko.com] - Reworking Personal Website
 ```
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Awc211NzJidGxieWV3bDVnMnRyNWZvMDQ2Y3Nhd3NjMWh6NHEwcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mFHFkmAZPexNbkR7Ld/giphy.gif" width="50px"> Connect With Me
