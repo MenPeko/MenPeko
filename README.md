@@ -18,7 +18,7 @@
 🧠  Teaching Assistant for Discrete Mathematics
 ⚙️  Systems thinker: from kernel drivers to full-stack web apps
 🍊  Unreasonably passionate about oranges
-💪  Fitness + self-improvement are non-negotiable
+💪  I be throwing them weights around
 ```
 
 ---
