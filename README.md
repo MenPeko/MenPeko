@@ -14,7 +14,7 @@
 
 ```text
 🎓  Senior CS student @ San Francisco State University
-🔨  Building GolarArt — a real-time multiplayer artist platform
+🔨  Building Tepa Tools 
 🧠  Teaching Assistant for Discrete Mathematics
 ⚙️  Systems thinker: from kernel drivers to full-stack web apps
 🍊  Unreasonably passionate about oranges
